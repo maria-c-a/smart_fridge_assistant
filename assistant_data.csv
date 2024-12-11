@@ -1,0 +1,34 @@
+Zone,Temperature
+Zone.TOP_SHELF,40
+Zone.MIDDLE_SHELF,37
+Zone.BOTTOM_SHELF,35
+Zone.TOP_FREEZER_DRAWER,1
+Zone.BOTTOM_FREEZER_DRAWER,0
+
+Zone,Items
+Zone.TOP_SHELF,
+Zone.MIDDLE_SHELF,"soup, ground_beef, bacon"
+Zone.BOTTOM_SHELF,"strawberries, apples, pears, ricotta, eggs, milk, jam"
+Zone.TOP_FREEZER_DRAWER,
+Zone.BOTTOM_FREEZER_DRAWER,ice_cream
+
+Location,Items
+Pantry.PANTRY,"cereal, flour, sugar, canned_garbanzo_beans"
+
+Destination,Time (minutes)
+DESTINATION.WORK,23
+DESTINATION.GYM,12
+DESTINATION.BANK,17
+DESTINATION.DOWNTOWN,43
+DESTINATION.AIRPORT,37
+DESTINATION.GROCERY_STORE,15
+
+App,Is Active
+APPS.HOMESCREEN,True
+APPS.REMINDERS,False
+APPS.GROCERY_LIST,False
+APPS.CALENDAR,False
+APPS.NEWS,False
+APPS.YOUTUBE,False
+APPS.CLOCK,False
+
